@@ -1,0 +1,19 @@
+# ===== .NET =====
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ===== Logs =====
+*.log
+
+# ===== IDEs =====
+.vscode/
+.idea/
+*.swp
+*.DS_Store
+
+# ===== ASP.NET =====
+appsettings.Development.json
